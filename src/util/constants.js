@@ -1,3 +1,3 @@
 export const AppConstants = {
-    BACEND_URL: 'https://auth-52yo.onrender.com',
+    BACEND_URL: 'authspring-production.up.railway.app',
 }

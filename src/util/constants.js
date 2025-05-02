@@ -1,3 +1,3 @@
 export const AppConstants = {
-    BACEND_URL: 'authspring-production.up.railway.app',
+    BACEND_URL: 'http://authspring-production.up.railway.app',
 }
